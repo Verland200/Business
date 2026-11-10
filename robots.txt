@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://verland200.github.io/Business/sitemap.xml
